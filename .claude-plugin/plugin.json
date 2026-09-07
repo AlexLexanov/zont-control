@@ -1,0 +1,9 @@
+{
+  "name": "zont-control",
+  "version": "0.1.0",
+  "description": "Read and control ZONT smart-home heating devices (my.zont.online) via the ZONT REST API v3.",
+  "author": {
+    "name": "Alex"
+  },
+  "keywords": ["zont", "smart home", "heating", "thermostat", "boiler"]
+}
